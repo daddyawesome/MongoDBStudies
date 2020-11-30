@@ -6,5 +6,3 @@ mongorestore --uri "mongodb+srv://<your username>:<your password>@<your cluster>
 
 mongoimport --uri="mongodb+srv://<your username>:<your password>@<your cluster>.mongodb.net/sample_supplies" --drop sales.json
 
-
-mongo "mongodb+srv://sandbox.o8aek.mongodb.net/<dbname>" --username m001-student
