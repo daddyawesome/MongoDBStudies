@@ -3,9 +3,6 @@ mongo "mongodb+srv://<username>:<password>@<cluster>.mongodb.net/admin"
 
 # example
 
-mongo "mongodb+srv://m001-student:m001-mongodb-basics@sandbox.o8aek.mongodb.net/admin"
-
-mongo "mongodb+srv://sandbox.o8aek.mongodb.net/<dbname>" --username m001-student
 
 it iterates through the cursor.
 
